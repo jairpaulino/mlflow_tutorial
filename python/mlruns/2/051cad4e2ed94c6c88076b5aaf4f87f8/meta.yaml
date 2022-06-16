@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jairp/Documents/GitHub/mlflow_tutorial/python/mlruns/2/051cad4e2ed94c6c88076b5aaf4f87f8/artifacts
+end_time: 1655407767715
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: 051cad4e2ed94c6c88076b5aaf4f87f8
+run_uuid: 051cad4e2ed94c6c88076b5aaf4f87f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1655407761799
+status: 3
+tags: []
+user_id: jairp
